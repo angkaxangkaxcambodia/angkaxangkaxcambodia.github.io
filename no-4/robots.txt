@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://angkaxangkaxcambodia.github.io/no-4/sitemap4.xml
